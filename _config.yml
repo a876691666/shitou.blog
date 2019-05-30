@@ -87,4 +87,4 @@ admin:
   username: shitou
   password_hash: $2a$10$l/S2EWgwzRJbYll2VT5Jm.Y2ly7Ij25Hq.m14XMCLzWbHNi6vbmJq
   secret: s%3AQPwpbW_f1e1RanugtvpAjvhh5RLIK_S_.GgxuYpQBVrJ3yH6avNdYhoP8fvYMZmepwoJUX%2BX9%2Fd8
-  deployCommand: './runPublish.sh'
+  deployCommand: 'sh'
