@@ -19,6 +19,7 @@
     "hexo-server": "^0.3.3"
   },
   "script": {
-    "publish": "hexo d -g"
+    "publish": "hexo d -g",
+    "update": "git pull;pm2 restart ./hexo_run.js;"
   }
 }
