@@ -3,7 +3,7 @@ tags:
   - react
   - react学习记录
   - 学习记录
-categories: []
+categories: [front-end]
 date: 2019-05-27 22:31:00
 ---
 ### 一、为什么要了解React Fiber
