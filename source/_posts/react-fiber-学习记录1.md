@@ -2,7 +2,8 @@ title: react fiber 学习记录 【一】
 tags:
   - react
   - 学习记录
-categories: [front-end]
+categories:
+  - front-end
 date: 2019-05-27 22:31:00
 ---
 ### 一、为什么要了解React Fiber
@@ -82,5 +83,3 @@ const createApp = (store) => (
 
 export default createApp
 ```
-
-
