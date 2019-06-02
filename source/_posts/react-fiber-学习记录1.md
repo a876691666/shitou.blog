@@ -68,7 +68,7 @@ date: 2019-05-27 22:31:00
 ---
 所以如果你是`react 16.6以前`的版本请使用`React.unstable_AsyncMode`，`react 16.6以后`的版本请使用`React.unstable_ConcurrentMode`来体验异步渲染模式。
 
-```javascript
+```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from 'components/App';
