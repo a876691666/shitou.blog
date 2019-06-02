@@ -21,6 +21,6 @@
   },
   "scripts": {
     "publish": "hexo d -g",
-    "update": "git pull;pm2 restart ./hexo_run.js;"
+    "update": "git pull;npm update;pm2 restart ./hexo_run.js;"
   }
 }
