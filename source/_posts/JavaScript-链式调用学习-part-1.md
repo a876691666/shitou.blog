@@ -3,8 +3,11 @@ author:
   name: 石头
   work: Web Developer &amp; Designer
   location: 'Beijing, China'
-date: 2019-10-13 10:09:35
-tags:
+tags: []
+categories:
+  - front-end
+  - ''
+date: 2019-10-13 10:09:00
 ---
 ### 什么是链式调用？
 链式调用（operate of responsibility）是一种很常见的代码设计。
